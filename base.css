@@ -1,0 +1,33 @@
+body {background-color: #ebf2f2;}
+
+h1 {background-color: blue;
+    border: 8px solid black;
+    border-bottom: 4px solid black;
+    color: white;
+    padding: 15px;
+    margin-right: 50%;}
+
+h2 {background-color: blue;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    padding: 5px;
+    margin-right: 60%;}
+
+a {background-color: green;
+color: white;
+border: 2px solid black;}
+
+a:hover {background-color: lawngreen;}
+
+button {background-color: #0385ff;
+        color: white;}
+
+#box {background-color: #03d3ff;
+                border: 2px solid black;
+                margin-right: 60%;
+                padding-top: 8px;}
+
+.content {border: 6px solid black;
+        padding-left: 20px;
+        padding-top: 10px;}
